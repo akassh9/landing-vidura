@@ -1,4 +1,5 @@
 import "./styles.css";
+import washULogo from "../WashU-RGB-removebg-preview.png";
 
 const logs = [
   ["08:14:08", "CALC", "Recalculating tensor field..."],
@@ -15,7 +16,7 @@ const logs = [
 
 const universityPartners = [
   {
-    logo: "/WashU-RGB-removebg-preview.png",
+    logo: washULogo,
     alt: "Washington University in St. Louis logo"
   }
 ];
